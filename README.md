@@ -1,9 +1,7 @@
-## Hi there 👋
-
-# 💫 About Me:
-# 💻 I'm a computer engineer and freelance web developer passionate about building smart, user-friendly applications.
-# 🛠️ I work with Django, JavaScript, and AI tools to solve real-world problems and create meaningful digital experiences.
-# 🚀 Always learning, always building.
+## 🌸 Hey there! I’m Binash — curious, creative, and always up for a challenge.
+## ✨ I believe in clean code, clear ideas, and continuous learning.
+## 📂 On this GitHub profile, you’ll find a mix of passion projects, experiments, and tools I’ve built to explore and grow.
+## 💡 Whether it's a polished app or a playful prototype, everything here reflects my journey as a developer and learner.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binash-shaikh-610786242) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binashshaikh972@gmail.com) 
