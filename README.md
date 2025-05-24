@@ -1,8 +1,9 @@
 ## Hi there 👋
 
 # 💫 About Me:
-# Hi, I'm Binash Shaikh 👋<br><br>🎓 Computer Engineer | 💻 Web Developer | 🤖 AI Enthusiast<br><br>🔭 Currently working on:<br>- 🏥 Hospital Management System with Django<br>- 🧠 AI-based Roleplay Communication App<br>- 📊 Leaderboard Dashboard integrating quiz and feedback systems<br><br>💼 Freelance Web Developer at Oyster Dezign  <br>📚 IBM Generative AI Intern | TCR Innovation Data Science Intern  <br><br>🛠️ Skills:<br>- Python, JavaScript, Django, React<br>- SQL, MongoDB<br>- APIs, Webhooks, Salesforce (LWC + Apex)<br><br>🌐 Connect with me:<br>[LinkedIn](https://www.linkedin.com/in/binash-shaikh/) | [Portfolio](https://biansh2003.github.io/Portfolio/)<br><br>📌 Check out my pinned projects below!<br>
-
+# 💻 I'm a computer engineer and freelance web developer passionate about building smart, user-friendly applications.
+# 🛠️ I work with Django, JavaScript, and AI tools to solve real-world problems and create meaningful digital experiences.
+# 🚀 Always learning, always building.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/binash-shaikh-610786242) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:binashshaikh972@gmail.com) 
